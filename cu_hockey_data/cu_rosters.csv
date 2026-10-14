@@ -1,0 +1,85 @@
+team,season,player_id,jersey,name,pos,position_group,rookie,height,height_in,weight_lb,shoots,hometown_city,hometown_state
+CU Men's D1,2024-25,9125,9,Drew McConaughy,F,Forwards,False,5-10,70,175,R,Hopewell,NJ
+CU Men's D1,2024-25,23276,13,Jacob Rosolanko,F,Forwards,False,6-0,72,175,L,Wyckoff,NJ
+CU Men's D1,2024-25,27487,14,Logan Behrje,F,Forwards,False,6-0,72,181,R,Hillsborough,NJ
+CU Men's D1,2024-25,27497,15,Michael Rhein,F,Forwards,False,6-0,72,190,R,White Bear Lake,MN
+CU Men's D1,2024-25,15283,16,Blake Blevins,F,Forwards,False,6-1,73,195,L,Troutdale,VA
+CU Men's D1,2024-25,15282,22,Cameron Bandoni,F,Forwards,False,5-7,67,150,R,Boulder,CO
+CU Men's D1,2024-25,15287,24,Roman Di Domizio,F,Forwards,False,6-3,75,185,R,Boulder,CO
+CU Men's D1,2024-25,27496,25,Cameron Piggott,F,Forwards,False,6-2,74,160,R,Longmont,CO
+CU Men's D1,2024-25,23270,26,Rapolas Marcinkevicius,F,Forwards,False,6-0,72,200,L,Boulder,CO
+CU Men's D1,2024-25,23274,37,Brodie Pearson,F,Forwards,False,5-11,71,175,R,Steamboat Springs,CO
+CU Men's D1,2024-25,23278,67,Douglas Wood,F,Forwards,False,5-11,71,160,R,Grosse Pointe Farms,MI
+CU Men's D1,2024-25,27498,81,Elliot Testa,F,Forwards,False,5-8,68,159,L,Rice,MN
+CU Men's D1,2024-25,23314,91,David Hoftiezer,F,Forwards,False,5-8,68,170,R,Medford,NJ
+CU Men's D1,2024-25,15288,93,Owen Dickinson,F,Forwards,False,6-1,73,185,L,Castle Rock,CO
+CU Men's D1,2024-25,27492,99,Presley Lashinski,F,Forwards,False,6-3,75,205,R,Windsor,CA
+CU Men's D1,2024-25,23275,3,Grant Robinson,D,Defense,False,6-4,76,175,L,Boulder,CO
+CU Men's D1,2024-25,27488,4,Jake Carnie,D,Defense,False,6-0,72,175,R,Golden,CO
+CU Men's D1,2024-25,9524,5,Jesse Kittay,D,Defense,False,6-0,72,215,L,Pine,CO
+CU Men's D1,2024-25,27493,6,Luc Masse,D,Defense,False,6-0,72,179,R,Hudson,MA
+CU Men's D1,2024-25,15289,7,Jack Ferguson,D,Defense,False,6-1,73,195,R,Boulder,CO
+CU Men's D1,2024-25,23277,10,Charles Samburg,D,Defense,False,6-0,72,185,R,Vienna,VA
+CU Men's D1,2024-25,9526,11,Kaid Nieslanik,D,Defense,False,5-10,70,180,R,Boulder,CO
+CU Men's D1,2024-25,28386,12,Issa Mansour,D,Defense,False,6-1,73,205,L,Dayton,MD
+CU Men's D1,2024-25,9523,17,Quinten Kinney,D,Defense,False,6-1,73,225,R,Wayzata,MN
+CU Men's D1,2024-25,27491,20,Mathison Hole,D,Defense,False,5-11,71,161,R,Cohasset,MA
+CU Men's D1,2024-25,27490,54,Alexander Hartman,D,Defense,False,5-10,70,163,R,Salt Lake City,UT
+CU Men's D1,2024-25,27495,29,Liam O'Gwen,G,Goalies,False,6-3,75,190,L,Basking Ridge,NJ
+CU Men's D1,2024-25,27494,30,Charles Maynard,G,Goalies,False,6-0,72,175,R,Charlestown,MA
+CU Men's D1,2024-25,23267,34,Caiden Boucher,G,Goalies,False,5-10,70,155,R,Thornton,CO
+CU Men's D1,2024-25,27489,90,Julian Goodfellow,G,Goalies,False,6-0,72,150,R,Boulder,CO
+CU Men's D2,2023-24,3731,6,Diego Pitones,F,Forwards,False,5-9,69,175,L,Columbus,OH
+CU Men's D2,2023-24,17227,7,Marius Krasauskas,F,Forwards,False,6-3,75,185,R,Denver,CO
+CU Men's D2,2023-24,3730,8,Cooper Barnhart,F,Forwards,False,5-8,68,165,R,Greenwood Village,CO
+CU Men's D2,2023-24,3736,9,Isaac Nefs,F,Forwards,False,5-9,69,165,L,Littleton,CO
+CU Men's D2,2023-24,17232,11,Trace Taranto,F,Forwards,False,5-11,71,205,L,Woodland Park,CO
+CU Men's D2,2023-24,17224,12,Tanner Simpson,F,Forwards,False,5-10,70,155,R,Westminster,CO
+CU Men's D2,2023-24,3740,13,Nowell Sinicki,F,Forwards,False,6-3,75,220,R,Centennial,CO
+CU Men's D2,2023-24,17234,14,Olin Silverman,F,Forwards,False,5-10,70,155,R,Boulder,CO
+CU Men's D2,2023-24,3735,15,Imaad Siddique,F,Forwards,False,5-7,67,164,R,Thornton,CO
+CU Men's D2,2023-24,22781,20,Emanuel Wetschnig,F,Forwards,True,5-5,65,160,R,San Jose,CA
+CU Men's D2,2023-24,26364,23,Kory Diponio,F,Forwards,False,6-0,72,180,R,Littleton,CO
+CU Men's D2,2023-24,22780,25,Shawn Valdez,F,Forwards,True,6-0,72,185,L,Colorado Springs,CO
+CU Men's D2,2023-24,22774,28,Jadon Deltufo,F,Forwards,False,6-1,73,185,R,Longmont,CO
+CU Men's D2,2023-24,22775,29,Joshua Gokey,F,Forwards,True,6-0,72,185,R,Colorado Springs,CO
+CU Men's D2,2023-24,22778,36,Kai Phipps,F,Forwards,True,5-11,71,175,R,Alexandria,VA
+CU Men's D2,2023-24,17230,52,Connor Smithburger,F,Forwards,False,6-2,74,160,R,Boulder,CO
+CU Men's D2,2023-24,19939,71,David Levkus,F,Forwards,False,5-10,70,175,L,Colorado Springs,CO
+CU Men's D2,2023-24,22773,88,Garrett Covney,F,Forwards,True,6-0,72,170,R,Highlands Ranch,CO
+CU Men's D2,2023-24,3749,2,Eugene Riewe,D,Defense,False,5-10,70,175,R,Centennial,CO
+CU Men's D2,2023-24,3744,4,Thomas Knapp,D,Defense,False,6-6,78,215,R,Edina,MN
+CU Men's D2,2023-24,3750,5,Andrew Santos,D,Defense,False,5-5,65,160,R,Longmont,CO
+CU Men's D2,2023-24,3741,10,Tate Dorris,D,Defense,False,5-11,71,160,R,Steamboat Springs,CO
+CU Men's D2,2023-24,22772,17,Nickita Alexeyev,D,Defense,True,6-0,72,175,R,Broomfield,CO
+CU Men's D2,2023-24,17225,21,Zaine Polacsek,D,Defense,False,6-0,72,230,L,Arvada,CO
+CU Men's D2,2023-24,22776,87,Brandon Hackett,D,Defense,True,6-0,72,180,R,Harrison,NY
+CU Men's D2,2023-24,26362,35,Tyler Condiff,G,Goalies,False,5-8,68,200,L,Boulder,CO
+CU Men's D2,2023-24,22779,39,Abram Seigel,G,Goalies,False,6-0,72,160,R,Tulsa,OK
+CU Men's D2,2023-24,22777,41,Dylan Lawrence,G,Goalies,True,6-0,72,185,L,Louisville,CO
+CU Women's D1,2024-25,29619,3,Amelia Sowers,F,Forwards,False,5-1,61,,R,Westmont,IL
+CU Women's D1,2024-25,15837,4,Claire Ferla,F,Forwards,False,5-4,64,,L,Highlands Ranch,CO
+CU Women's D1,2024-25,29621,6,Anna Masiello,F,Forwards,False,5-10,70,,L,Littleton,CO
+CU Women's D1,2024-25,24262,9,Rowan Nasty,F,Forwards,False,5-2,62,,R,Nederland,CO
+CU Women's D1,2024-25,15839,10,Elena Mccloskey,F,Forwards,False,5-7,67,,L,Marblehead,MA
+CU Women's D1,2024-25,8155,13,Elle LaPerle,F,Forwards,False,5-0,60,,R,Boulder,CO
+CU Women's D1,2024-25,15836,14,Brianna Arens,F,Forwards,False,5-6,66,,R,Powell,OH
+CU Women's D1,2024-25,8140,17,Jordan Bonk,F,Forwards,False,5-3,63,,R,Hartland,WI
+CU Women's D1,2024-25,15840,19,Jess Sanstra,F,Forwards,False,5-6,66,,L,Littleton,CO
+CU Women's D1,2024-25,15842,22,Amanda Wallace,F,Forwards,False,5-0,60,,L,West Chester,PA
+CU Women's D1,2024-25,8138,23,Melina Atwood,F,Forwards,False,5-1,61,,R,Arvada,CO
+CU Women's D1,2024-25,24260,26,Ella Hairston,F,Forwards,False,5-4,64,,R,Boerne,TX
+CU Women's D1,2024-25,24258,33,Natalie Ewald,F,Forwards,False,5-8,68,,L,Ellington,CT
+CU Women's D1,2024-25,15841,46,Oksana Terletska,F,Forwards,False,5-4,64,,R,Boulder,CO
+CU Women's D1,2024-25,29626,54,Emily Simon,F,Forwards,False,5-4,64,,R,Littleton,CO
+CU Women's D1,2024-25,24259,55,Mia Fiscelli,F,Forwards,False,5-5,65,,R,Western Springs,IL
+CU Women's D1,2024-25,30278,68,Abigail Zahn,F,Forwards,True,5-8,68,,L,Boulder,CO
+CU Women's D1,2024-25,29628,94,Isabella Gehring,F,Forwards,False,5-7,67,,L,Westminster,CO
+CU Women's D1,2024-25,29622,8,Cassie Grant,D,Defense,False,5-6,66,,R,Littleton,CO
+CU Women's D1,2024-25,29623,11,Zoe Dupuis,D,Defense,True,5-5,65,,R,Boulder,CO
+CU Women's D1,2024-25,8162,12,Ashley Rouse,D,Defense,False,5-7,67,,R,Boulder,CO
+CU Women's D1,2024-25,30277,21,Sophie O'brien,D,Defense,False,5-2,62,,L,Cincinnati,OH
+CU Women's D1,2024-25,24261,24,Julianna Mcdonald,D,Defense,False,5-9,69,,L,Tijeras,NM
+CU Women's D1,2024-25,8161,47,Lauren Rayment,D,Defense,False,5-6,66,,L,Boulder,CO
+CU Women's D1,2024-25,8139,2,Andi Bierbaum,G,Goalies,False,5-9,69,,L,Dillon,CO
+CU Women's D1,2024-25,15843,30,Zoe Watson,G,Goalies,False,5-7,67,,R,Arvada,CO
